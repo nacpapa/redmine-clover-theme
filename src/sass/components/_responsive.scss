@@ -1,0 +1,37 @@
+
+// stylelint-disable selector-max-compound-selectors
+.theme-Purplemine2 {
+  @media all and (max-width: 899px)
+{
+  body #header {
+    background-color: #3d454c;
+  }
+
+  body .flyout-menu {
+    background-color: #29333a;
+  }
+
+  body .flyout-menu__avatar {
+    margin-left: 8px;
+  }
+
+  body .flyout-menu__avatar img.gravatar {
+    width: 32px;
+    height: 32px;
+    padding: 2px;
+    border: solid 1px #d5d5d5;
+    background: #fff;
+    vertical-align: middle;
+    border-radius: 0;
+    margin-top: 3px;
+  }
+
+  body .flyout-menu a {
+    color: #9da2a6;
+  }
+  body .flyout-menu h3 {
+    background-color: #000;
+    border-color: #000;
+  }
+}
+}
