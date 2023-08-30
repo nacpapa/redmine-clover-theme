@@ -1,6 +1,6 @@
-# PurpleMine 2
+# Clover theme
 
-A free Redmine theme for modern browsers.
+A  Redmine theme.
 
 ![The MIT License](https://img.shields.io/badge/license-MIT-584492.svg) [![JavaScript Style Guide](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](http://standardjs.com/) [![Build Status](https://img.shields.io/endpoint.svg?url=https://actions-badge.atrox.dev/mrliptontea/PurpleMine2/badge&label=lint&logo=none)](https://actions-badge.atrox.dev/mrliptontea/PurpleMine2/goto) [![Issues](https://img.shields.io/github/issues/mrliptontea/PurpleMine2.svg)](https://github.com/mrliptontea/PurpleMine2/issues)
 
